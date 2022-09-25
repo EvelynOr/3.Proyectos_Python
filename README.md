@@ -1,4 +1,4 @@
-# 2.Proyectos Python 🅿🆈🆃🅷🅾🅽
+# 2.Proyectos en 🅿🆈🆃🅷🅾🅽
 
 
 Proyectos utilizando Python
